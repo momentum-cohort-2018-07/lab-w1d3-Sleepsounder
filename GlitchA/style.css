@@ -1,0 +1,140 @@
+/* CSS files add styling rules to your content */
+/* 
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color:#FEFFD5
+}
+
+h1 {
+  text-align: center;
+  font-style: bold;
+  background-color: #D7AB61;
+  border: 3px solid #183D29
+  
+  
+}
+
+h1 a {
+color: #183D29;
+text-decoration: none;
+
+}
+
+.center {
+    display: block;
+    margin: 17px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    
+  
+}
+
+.top-part {
+    padding-top: 40px;
+}
+
+/* a:visited {
+color: red;
+} */
+
+/* 
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #D7AB61;
+    border: 3px solid #183D29 ;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 3px 5px;
+    text-decoration: none;
+}
+ */
+/* Change the link color to #111 (black) on hover */
+/* li a:hover {
+    background-color: #4C3104;
+    color: white;
+}
+
+
+.infoText {
+  padding:3px;
+  margin: 2px;
+
+}
+
+
+#contact {
+    position: fixed;
+    bottom: 0;
+    width: 850px;
+}
+
+.senter {
+  margin:auto;
+  width:50%;
+  padding:10px;
+} */
+   */
+  
+/* nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #D7AB61;
+    border: 1px solid #555;
+    
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+
+/* Change the link color on hover */
+
+ /*li a:hover {
+    background-color: #4C3104;
+    color: white;
+}
+ */
+
+
+* {
+   box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: ariel, sans-serif;
+    background-color: pink;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+img {
+ max-width:100%;
+}
+
+.header {
+  background0color: #275DAD;
+  margin-top: 10px;
+}
+
